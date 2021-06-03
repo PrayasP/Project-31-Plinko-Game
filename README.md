@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Output Link - https://prayasp.github.io/Project-31-Plinko-Game/
